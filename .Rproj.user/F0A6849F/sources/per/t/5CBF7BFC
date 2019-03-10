@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552225208058.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2269445996",
+    "id" : "5CBF7BFC",
+    "lastKnownWriteTime" : 1552225410,
+    "last_content_update" : 1552225410703,
+    "path" : "C:/Users/nacho/Desktop/Estadística/R/Chess Analysis/Script1.R",
+    "project_path" : "Script1.R",
+    "properties" : {
+        "cursorPosition" : "356,69",
+        "scrollLine" : "327",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
